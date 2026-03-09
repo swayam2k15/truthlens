@@ -1,11 +1,11 @@
 {
-    "name": "truthlens",
-    "short_name": "truthlens",
+    "name": "TruthLens",
+    "short_name": "TruthLens",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0f1117",
+    "theme_color": "#0D47A1",
+    "description": "Cryptographic proof-of-life camera with 6-layer attestation pipeline.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
