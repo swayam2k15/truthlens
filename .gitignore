@@ -1,0 +1,45 @@
+# Flutter/Dart
+*.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# macOS
+.DS_Store
+*.plist
+
+# Android
+/android/app/debug
+/android/app/profile
+/android/app/release
+*.jks
+*.keystore
+local.properties
+
+# iOS
+/ios/Pods/
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# Coverage
+coverage/
+
+# Keys & secrets
+*.env
+secrets/
+
+# Claude
+.claude/
